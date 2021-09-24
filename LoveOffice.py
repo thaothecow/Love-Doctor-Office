@@ -1,7 +1,3 @@
-# I have always been considered as a love doctor by those around me.
-# I have decided to make an environment or office that can provide the services of a love doctor.
-# It is a fun way to resolve the love-related concerns of clients.
-
 # random module will be used for calculations involving random integers
 import random 
 # Defining variables with the user inputs; for later
