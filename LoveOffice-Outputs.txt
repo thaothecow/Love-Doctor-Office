@@ -1,0 +1,68 @@
+Enter your name: Thao
+---------------------------------------------------
+Welcome to the Love Doctor Office, Thao!
+-------------------------------------------
+Love Calculator | Love Bank
+-------------------------------------------
+Please choose a service: Love Calculator
+
+Welcome to the Love Calculator!
+
+Enter the number of potential soulmates: 1
+
+name of potential soulmate 1: Forest
+
+You have a 122% chance of success with Forest
+You were both made for each other!
+
+Thank you for using the Love Calculator!
+
+Enter your name: Thao
+---------------------------------------------------
+Welcome to the Love Doctor Office, Thao!
+-------------------------------------------
+Love Calculator | Love Bank
+-------------------------------------------
+Please choose a service: Love Bank
+
+Welcome to your personal Love Bank Account where you can manage and track your expenses spent on love!
+--------------------------------------------------------------------------------------------------------
+Withdrawal & Deposit | Budget Tracker
+
+Net Available Balance:  0.0
+
+Please choose a service: Withdrawal & Deposit
+
+Welcome to the Withdrawal & Deposit Machine!
+
+Enter 0 if you do not wish to withdraw or deposit anything
+Enter the deposit amount: 100
+Enter the withdrawal amount: 20
+
+Deposit amount:  100.0 
+Withdrawal amount:  20.0 
+Net Available Balance:  80.0
+
+Enter your name: Thao
+---------------------------------------------------
+Welcome to the Love Doctor Office, Thao!
+-------------------------------------------
+Love Calculator | Love Bank
+-------------------------------------------
+Please choose a service: Love Bank
+
+Welcome to your personal Love Bank Account where you can manage and track your expenses spent on love!
+--------------------------------------------------------------------------------------------------------
+Withdrawal & Deposit | Budget Tracker
+
+Net Available Balance:  0.0
+
+Please choose a service: Budget Tracker
+
+Track your expenses spent on love here!
+Enter an item and its cost e.g. wine 60 ('quit' to quit): wine 40
+Enter an item and its cost e.g. wine 60 ('quit' to quit): patience 50
+Enter an item and its cost e.g. wine 60 ('quit' to quit): food 1000
+Enter an item and its cost e.g. wine 60 ('quit' to quit): quit
+{'wine': '$40', 'patience': '$50', 'food': '$1000'}
+You have spent $1090 on love
